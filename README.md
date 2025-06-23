@@ -39,7 +39,7 @@ npm run dev
 ```
 
 - The client and server will start in development mode.
-- Visit [http://localhost:5173](http://localhost:5173) (or the port shown in your terminal).
+- Visit [http://localhost:5173](http://localhost:5000) (or the port shown in your terminal).
 
 ### Build
 

@@ -10,7 +10,6 @@ A modern, full-stack admin dashboard built with React, Express, Vite, and TypeSc
 - 📊 **Recharts** for analytics and charting
 - 🗂️ **Kanban Board** for project/task management
 - 📅 **Calendar** integration
-- 🔒 **Authentication** with Passport.js
 - 🗄️ **Express** backend with session support
 - 🗃️ **Drizzle ORM** for database access
 - 💬 **Notifications** and toast system
